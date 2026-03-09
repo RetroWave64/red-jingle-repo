@@ -96,5 +96,7 @@
     { "game": "Yo-Kai Watch 3", "file": "jingles/n3ds/yo-kai-watch-3.wav" },
     { "game": "Yoshi's New Island", "file": "jingles/n3ds/yoshi-new-island.wav" },
     { "game": "Zero Escape - Virtue's Last Reward", "file": "jingles/n3ds/zero-escape-vlr.wav" }
+    { "game": "The Legend of Zelda - The Wind Waker", "file": "jingles/Wii U/The Legend of Zelda - The Wind Waker.wav" },
+    { "game": "The Legend of Zelda - Twilight Princess HD", "file": "jingles/Wii U/The Legend of Zelda - Twilight Princess HD.wav" }  
   ]
 }
