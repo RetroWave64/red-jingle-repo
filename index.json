@@ -1,13 +1,9 @@
 {
-  "name": "Example Jingle Pack",
+  "name": "Red's Jingles Pack",
   "entries": [
     {
-      "game": "Example Game 1",
-      "file": "jingles/example-game-1.mp3"
-    },
-    {
-      "game": "Example Game 2",
-      "file": "jingles/example-game-2.mp3"
+      "game": "Kirby - Triple Deluxe",
+      "file": "jingles/Test.wav"
     }
   ]
 }
